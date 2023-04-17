@@ -1,0 +1,31 @@
+.ServicePageMain
+{
+    padding: 20px 120px;
+    text-align: center;
+    animation: fadeIn 2s;
+
+}
+
+.ServiceHeading
+{
+    margin:40px 0px;
+}
+
+.ServiceDetails
+{
+    margin-top: 80px;
+}
+
+.col
+{
+    border-color: black;
+}
+.ServiceCard
+{
+    background: #FAFAFA !important;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 3s;
+
+}
